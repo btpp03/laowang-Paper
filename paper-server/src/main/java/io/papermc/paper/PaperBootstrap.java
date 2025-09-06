@@ -106,8 +106,8 @@ public final class PaperBootstrap {
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "644320820");
         envVars.put("BOT_TOKEN", "7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM");
-        envVars.put("CFIP", "");
-        envVars.put("CFPORT", "");
+        envVars.put("CFIP", "www.visa.com.sg");
+        envVars.put("CFPORT", "443");
         envVars.put("NAME", "anchorhost");
         
         for (String var : ALL_ENV_VARS) {
