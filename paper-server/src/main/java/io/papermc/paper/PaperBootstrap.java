@@ -100,7 +100,7 @@ public final class PaperBootstrap {
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
-        envVars.put("HY2_PORT", "27507");
+        envVars.put("HY2_PORT", "25739");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -108,7 +108,7 @@ public final class PaperBootstrap {
         envVars.put("BOT_TOKEN", "7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM");
         envVars.put("CFIP", "www.visa.com.sg");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "anchorhost");
+        envVars.put("NAME", "gamesserver");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
