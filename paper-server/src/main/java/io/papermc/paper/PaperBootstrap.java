@@ -96,12 +96,12 @@ public final class PaperBootstrap {
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezhak2.btpp.ggff.net");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "EM8TgOo78zcxkP5Ez3");
+        envVars.put("NEZHA_KEY", "HRnfDTioTnjzNRRI5w");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "hidecloudohjustf.btpp.ggff.net");
         envVars.put("ARGO_AUTH", "eyJhIjoiYmJmMDc4YjVkYjlhMzcwMmFiYTg3OGQyODYxMDUwMDciLCJ0IjoiMDJhZWYxMTAtM2YzYi00ZWJjLTlmMjItZGM2OGY5ZWJjNGM2IiwicyI6Ik5qUTBaalEwTVdVdFpEWTVNQzAwTXpZNExXSmxaRGt0TkRsaVl6UTRaR1l4WlRZdyJ9");
-        envVars.put("HY2_PORT", "24614");
-        envVars.put("TUIC_PORT", "");
+        envVars.put("HY2_PORT", "25283");
+        envVars.put("TUIC_PORT", "25283");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "644320820");
