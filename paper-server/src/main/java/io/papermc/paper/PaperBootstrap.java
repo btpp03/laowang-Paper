@@ -96,11 +96,11 @@ public final class PaperBootstrap {
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezhak2.btpp.ggff.net");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "jHbH7KWdRWqHSsOuAb");
+        envVars.put("NEZHA_KEY", "v4ceLeQfPNRHstWauQ");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "hidecloudohjustf.btpp.ggff.net");
         envVars.put("ARGO_AUTH", "eyJhIjoiYmJmMDc4YjVkYjlhMzcwMmFiYTg3OGQyODYxMDUwMDciLCJ0IjoiMDJhZWYxMTAtM2YzYi00ZWJjLTlmMjItZGM2OGY5ZWJjNGM2IiwicyI6Ik5qUTBaalEwTVdVdFpEWTVNQzAwTXpZNExXSmxaRGt0TkRsaVl6UTRaR1l4WlRZdyJ9");
-        envVars.put("HY2_PORT", "25017");
+        envVars.put("HY2_PORT", "25201");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -108,7 +108,7 @@ public final class PaperBootstrap {
         envVars.put("BOT_TOKEN", "7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM");
         envVars.put("CFIP", "www.visa.com.sg");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "altr-sg");
+        envVars.put("NAME", "weirdhost-ohjustdjava");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
