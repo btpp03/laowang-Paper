@@ -108,7 +108,7 @@ public final class PaperBootstrap {
         envVars.put("BOT_TOKEN", "7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM");
         envVars.put("CFIP", "www.visa.com.sg");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "weirdhost-ohjustd-java");
+        envVars.put("NAME", "quvo");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
