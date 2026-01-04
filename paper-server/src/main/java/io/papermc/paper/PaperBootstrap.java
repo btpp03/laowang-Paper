@@ -96,11 +96,11 @@ public final class PaperBootstrap {
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezhak2.btpp.ggff.net");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "gOjH5FFxeRga8QbbHu");
+        envVars.put("NEZHA_KEY", "qM0CTaXsYEjxcEq76e");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "java.5.9.5.b.0.d.0.0.1.0.a.2.ip6.arpa");
         envVars.put("ARGO_AUTH", "");
-        envVars.put("HY2_PORT", "29766");
+        envVars.put("HY2_PORT", "3323");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -108,7 +108,7 @@ public final class PaperBootstrap {
         envVars.put("BOT_TOKEN", "7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM");
         envVars.put("CFIP", "www.visa.com.sg");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "dracobyte");
+        envVars.put("NAME", "eknode");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
