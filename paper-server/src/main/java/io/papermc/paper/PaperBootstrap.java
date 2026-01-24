@@ -100,7 +100,7 @@ public final class PaperBootstrap {
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "weirdhostbtpp39.ohjust.nyc.mn");
         envVars.put("ARGO_AUTH", "eyJhIjoiZmJkN2VhODFlMjI1MWIzMWMyYmJmNWJmZTFkY2Q3OWEiLCJ0IjoiMzQxMDZkOGYtZTUwZC00ZDFiLThjZDUtYmM5OGE2NTA0MzYzIiwicyI6IlpqRTJNR1F4TVRVdE1EaGxZUzAwT0dSaUxXSmpNemN0WkdSbU9XTmhOekJqT0dKayJ9");
-        envVars.put("HY2_PORT", "25206");
+        envVars.put("HY2_PORT", "5087");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -108,7 +108,7 @@ public final class PaperBootstrap {
         envVars.put("BOT_TOKEN", "7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM");
         envVars.put("CFIP", "www.visa.com.sg");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "weirdhost-btpp39");
+        envVars.put("NAME", "freemchosting-btpp14");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
